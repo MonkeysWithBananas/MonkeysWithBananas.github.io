@@ -1,0 +1,24 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.monkeyswithbananas.ml" resolutions="1x" timestamp="1480707044307">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3978107590" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="photos-u144.png" crc="4170085660" ref="index"/>
+    <file name="u178-4.png" crc="288007305" ref="index"/>
+    <file name="twitter.png" crc="467064840" seo="true" ref="index"/>
+    <file name="youtube.png" crc="410815327" seo="true" ref="index"/>
+    <file name="u154-4.png" crc="3902404032" ref="index"/>
+    <file name="galaxy-wallpaper-40.jpg" crc="4100661544" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3782886260" seo="true" mt="1480707042934" redirect="true"/>
+</manifest>
